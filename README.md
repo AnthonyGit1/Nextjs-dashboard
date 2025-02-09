@@ -40,6 +40,12 @@ Crear archivo .env con:
 npm run dev
 ```
 
+## 👤 Credenciales de Prueba
+```bash
+Email: user@nextmail.com
+Password: 123456
+```
+
 ## 🔑 Funcionalidades
 - **Inicio de Sesión**: Sistema seguro de autenticación
 - **Dashboard**: Vista general de métricas y estadísticas
